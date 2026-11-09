@@ -1,7 +1,7 @@
 
 # Parcial #3 - Programación en C\#
 
-Ejercicios desarrollados para practicar la aplicación de **clases abstractas, herencia, polimorfismo, serialización JSON y seguridad de contraseñas mediante BCrypt**, utilizando **C#**, Windows Forms y conexión a una base de datos MySQL.
+Ejercicios desarrollados para la aplicación de **clases abstractas, herencia, polimorfismo, serialización JSON y seguridad de contraseñas mediante BCrypt**, utilizando **C#**, Windows Forms y conexión a una base de datos MySQL.
 
 **Parcial  #3**\
 **Universidad Tecnológica de Panamá - Facultad de Ingeniería en Sistemas**
